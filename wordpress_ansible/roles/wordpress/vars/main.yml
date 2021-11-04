@@ -1,0 +1,10 @@
+wp_mysql_db: 'wordpress'
+wp_mysql_user: 'wordpress'
+wp_mysql_password: 'wordpress123'
+wp_sitename: 'localhost2'
+site_name: 'localhost2'
+mysql_user: 'wordpress'
+mysql_pass: 'wordpress123'
+wp_login_username: 'fatlum'
+wp_login_password: '%8neO^!k)caKszkE3w'
+root_dest: /var/www/localhost2
